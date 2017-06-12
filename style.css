@@ -1,0 +1,61 @@
+body {
+	background-color: rgb(200,230,100);
+	font-size: 130%;
+	display: inline-table;
+}
+div#hh1 {
+	background-image: url("image1.png");	
+	height: 150px;
+	font-size: 100px ;
+	min-width: 700px;
+	color : white;
+	text-align: center;
+	vertical-align: middle;
+	font-style: italic;
+	border:5px solid green;
+	text-shadow: 10px 5px 10px black;
+	/*width: 600px;*/
+}
+
+#kk{
+	font-size: 100px;
+	font-family: Monotype Corsiva;
+	color:#990000;
+
+}
+h1 {
+	font-size: 200%;
+	text-align: center;
+	color:white;
+	background-color: rgba(0,100,0,1);
+
+	padding: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	box-shadow: 10px 10px 20px 0px yellow;
+	/*font-family: Monotype Corsiva ;*/
+}
+042708800
+p{
+	text-indent: 30px;
+	padding-left: 50px;
+	padding-right: 50px; 
+}
+
+footer {
+text-align: center;
+}
+
+a:hover  {
+	color : green;
+	font-size: 150%;
+
+}
+
+a:link {text-decoration: none;}/* to remove the under line for link */
+
+img {
+	float: left;
+	margin-right: 30px; 
+	/*margin-left: 30px;*/
+}
